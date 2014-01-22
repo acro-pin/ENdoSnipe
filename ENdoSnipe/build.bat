@@ -6,7 +6,7 @@ rem この環境変数はビルドスクリプトによって自動的に build.properties と
 rem 各プロジェクトの MANIFEST.INF へ反映されます
 rem ---------------------------------------------------------------------------
 set VER=5.1.0
-set BUILD=beta3
+set BUILD=release
 rem ---------------------------------------------------------------------------
 
 if exist "C:\Program Files (x86)" goto 64BIT
